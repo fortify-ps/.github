@@ -4,7 +4,6 @@ Build secure software fast with [Fortify](https://www.microfocus.com/en-us/solut
 
 This organization used to contain many repositories developed by Fortify Professional Services, however most of these repositories have now been moved to the main Fortify organization at https://github.com/fortify. The following repositories are planned to be moved to the main Fortify organization as well over the coming weeks/months, either as-is or after some restructuring:
 
-* [fcli](https://github.com/fortify-ps/fcli)
 * [FortifySyncFoDToSSC](https://github.com/fortify-ps/FortifySyncFoDToSSC)
 * [FortifyBugTrackerUtility](https://github.com/fortify-ps/FortifyBugTrackerUtility)
 * [fortify-ssc-bugtracker-register-buglinks](https://github.com/fortify-ps/fortify-ssc-bugtracker-register-buglinks)
